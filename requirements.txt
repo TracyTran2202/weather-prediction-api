@@ -8,6 +8,3 @@ python-dateutil>=2.8.2
 requests>=2.26.0
 xgboost>=1.6.0
 imbalanced-learn>=0.8.0
-# Custom package from TestPyPI
---extra-index-url https://test.pypi.org/simple/
-weather-prediction-utils-tracytran>=0.1.0
